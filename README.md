@@ -1,1 +1,1 @@
-# SQL-HackerRank
+# SQL HackerRank
