@@ -14,8 +14,6 @@ FROM
 GROUP BY SUBMISSION_DATE;
 
 
-or 
-
 
 -- ms mysql server
 
